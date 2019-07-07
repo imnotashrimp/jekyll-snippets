@@ -14,9 +14,10 @@ when you build Jekyll.
 
 Here's how we work with Liquid:
 
-<!-- If you're looking at this in the source,
-it's not going to make any sense.
-Serve up Jekyll to see what this looks like rendered. -->
+{% comment %}
+*   If you're looking at this in the source, it's not going to make any sense.
+*   Serve up Jekyll to see what this looks like rendered.
+*         {% endcomment %}
 
 ```
 {%- raw -%}
